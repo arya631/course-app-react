@@ -1,9 +1,10 @@
 import React from 'react'
+import NavBar from './NavBar'
 
 const InsertCourse = () => {
   return (
     <div>
-
+        <NavBar />
         <h1><center>Insert Course</center></h1>
         <div className="container">
             <div className="row">
